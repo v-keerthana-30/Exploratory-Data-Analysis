@@ -1,6 +1,18 @@
 # Exploratory-Data-Analysis
 The main goal is to conduct a thorough exploratory analysis of dataset to uncover insights, identify patterns, and understand the dataset's underlying structure. Used statistical summaries, visualizations, and data manipulation techniques to explore the dataset comprehensively.
 
+Tools and Libraries:
+
+●	Python or R programming language
+
+●	Data manipulation libraries 
+
+●	Data visualization libraries (Matplotlib and Seaborn in Python)
+
+●	Jupyter Notebook for documenting your analysis
+
+
+
 # Tasks:
 
 1.	Data Cleaning and Preparation:
